@@ -6,8 +6,8 @@
 // @version     1.0
 // @author      -
 // @description 29.09.2024, 13:09:16
-// @downloadURL  https://github.com/xorascs/Electra/blob/main/electra.js
-// @updateURL    https://github.com/xorascs/Electra/blob/main/electra.js
+// @downloadURL  https://github.com/xorascs/Electra/raw/main/electra.js
+// @updateURL    https://github.com/xorascs/Electra/raw/main/electra.js
 // @homepage     https://github.com/xorascs/Electra
 // ==/UserScript==
 
