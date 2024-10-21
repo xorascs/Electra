@@ -1,4 +1,4 @@
-[[<p align="center"><img src="https://bz-expert.com/wp-content/uploads/2024/09/photo_2024-09-16_17-41-07-1024x342.jpg" width="800" height="400" /></p>
+<p align="center"><img src="https://electra.trade/images/logo-mark.svg" width="800" height="400" /></p>
 
 # Бот для проекта Electra
 Бот в котором есть дейлик с угадыванием дальнейшим графиком цены биткоина и игра где нужно кликать как можно быстрее.
